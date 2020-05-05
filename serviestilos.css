@@ -1,10 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-body{background-color: #A2CF4E;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	margin: 0 auto;
-}
 
+body{background-color: #A2CF4E;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
 
 .menu{
 		width: 1000px;
@@ -63,6 +62,26 @@ ul li a:hover{
 	visibility: visible;
 	padding: 15px;
 	opacity: 1;
+}
+
+
+/* Contenido */
+
+.contenedor-ima{
+	margin: 20px;
+}
+
+.contenedor-ima li{
+	list-style: none;
+	display: inline-block;
+}
+
+.habi{
+	margin-right: 100px;
+}
+
+.sala {
+	margin-top: 10px;
 }
 
 
@@ -183,3 +202,4 @@ p{
 	width: 500px;
 	padding-left: 100px;
 }
+

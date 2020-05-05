@@ -1,10 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 body{background-color: #A2CF4E;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	margin: 0 auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
 }
-
 
 .menu{
 		width: 1000px;
@@ -183,3 +181,4 @@ p{
 	width: 500px;
 	padding-left: 100px;
 }
+
